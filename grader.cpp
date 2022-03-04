@@ -13,7 +13,7 @@ char grader(int points, int assignments) {
 }
 
 // Main function; this is where our execution will start.
-int main(int argc, char *argv[]) {
+int main() {
     // Task:
     // Professors at Purdue have rallied together after bonding over a
     // shared disdain for the Brightspace grading UI. You have been tasked in writing
